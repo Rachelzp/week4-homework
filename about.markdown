@@ -3,16 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
+ <h1>Oh you're interested in us?</h1>
+ <img src="../media/img/museum.jpeg">
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+ <ul>
+            <li><a href="tel:07123125881281824">Call us</a></li>
+            <li><a href="mailto:higgeldypiggeldy@galleryofnonsense.com">Email us</a></li>
+        </ul>
